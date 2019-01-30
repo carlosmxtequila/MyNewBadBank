@@ -1,0 +1,29 @@
+{
+  "name": "badbank",
+  "version": "1.0.0",
+  "description": "small json data store",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1125f16/littledb.git"
+  },
+  "keywords": [
+    "data",
+    "store"
+  ],
+  "author": "abelsan <abel@mit.edu>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/1125f16/littledb/issues"
+  },
+  "homepage": "https://github.com/1125f16/littledb#readme",
+  "dependencies": {
+    "bootstrap": "^4.2.1",
+    "cors": "^2.8.5",
+    "express": "^4.16.3",
+    "lowdb": "^1.0.0"
+  }
+}
